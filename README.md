@@ -14,13 +14,15 @@ To install dependencies:
 
 ```bash
 pip install Pillow
-
+```
 ---
 ## How to run
 There are two project files included.
 Simply unzip the folder and run:
-`python demo.py
-`
+```bash
+python demo.py
+```
+
 This will generate:
 * One text-based maze displayed in your terminal (using ASCII characters)
 * One image-based maze saved as a PNG file (longest_path.png)
